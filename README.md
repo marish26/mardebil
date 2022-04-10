@@ -10,9 +10,7 @@
 * Низкая цена
 
 # Логотип:
-![logo]
-(https://camo.githubusercontent.com/79ee96a8b8fa098c44d1ca302006f24d008408a1c22fc13260437214d705a23d/68747470733a2f2f6e65746f6c6f67792d636f64652e6769746875622e696f2f6769742d686f6d65776f726b732f696e74726f64756374696f6e2f6173736574732f6c6f676f2e706e67)
-
+![logo](https://camo.githubusercontent.com/ace14ee894d150192a7b05b12410738aa65528da742bbce69315a5f441320ea7/68747470733a2f2f692e696d6775722e636f6d2f495a4f525769492e706e67)
 
 ### Вы можете встроить NeuroStartUp в ваши приложения с помощью следующих сниппетов (кусочков) кода.
 #### javascript:
